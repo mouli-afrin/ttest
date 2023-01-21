@@ -1,3 +1,4 @@
-this is test1
-this is test1 second line
-this is test1 thirdline
+this is test1.
+this is test1 second line.
+this is test1 thirdline.
+logo alignment is centered.
